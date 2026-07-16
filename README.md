@@ -21,6 +21,6 @@ As of July 16, 2026
 
 - Currently no FRC calibration option/feature as I dont have a second reference to calibrate this sensor, but I will update the code when I make progress in this route. 
 
-The SCD30 driver repository: https://github.com/Sensirion/embedded-i2c-scd30
+Official Sensiron SCD30 driver: https://github.com/Sensirion/embedded-i2c-scd30
 
 Sensiron SCD30 datasheet: https://sensirion.com/media/documents/4EAF6AF8/61652C3C/Sensirion_CO2_Sensors_SCD30_Datasheet.pdf
