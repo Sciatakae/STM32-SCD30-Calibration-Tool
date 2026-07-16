@@ -1,6 +1,6 @@
 # STM32-SCD30-Calibration-Tool
 
-Hi! The reason I decided to upload this code is to provide STM32 examples for other people to reference. 
+I decided to upload this code is to provide STM32 examples for other beginners to reference;this project is a good example if you are learning about I2C and/or UART on an STM32 microcontroller.
 
 - This tool can be used to calibrate an SCD30 sensor using an STM32 microcontroller.
 
@@ -14,4 +14,4 @@ Microcontroller:  Nucleo-L476RG
 
 Software: STM32CubeMX & Visual Studio Code
 
-As of July 16, 2026 I haven't left the device running for the 7 days needed to auto calibrate, will share results when i do. 
+As of July 16, 2026 I haven't left the device running for the 7 days needed to auto calibrate, will share results when i do.
