@@ -1,13 +1,12 @@
 # STM32-SCD30-Calibration-Tool
 
 Hi! The reason I decided to upload this code is to provide STM32 examples for other people to reference. 
-  - i only uploaded the core folder, but that should be enough. 
 
-This tool can be used to calibrate an SCD30 sensor using an STM32 microcontroller.
+-This tool can be used to calibrate an SCD30 sensor using an STM32 microcontroller.
 
-On boot, a menu in the terminal appears and you can start/stop streaming sensor data with ASC calibration enabled/disabled at your discression.
+-On boot, a menu in the terminal appears and you can start/stop streaming sensor data with ASC calibration enabled/disabled at your discression.
 
-currently no FRC feature, as I dont have a second reference to calibrate the sensor, but i will update the code when i make progress in this route. 
+- Currently no FRC feature, as I dont have a second reference to calibrate the sensor, but i will update the code when i make progress in this route. 
 
 The SCD30 driver is taken from https://github.com/Sensirion/embedded-i2c-scd30
 
