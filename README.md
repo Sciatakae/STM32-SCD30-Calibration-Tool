@@ -4,10 +4,9 @@ I decided to upload this code is to provide STM32 examples for other beginners t
 
 This project is a good example if you are learning about I2C and/or UART on an STM32 microcontroller; or if you just need to calibrate your sensor on an STM32 microcontroller.
 
-- This tool can be used to calibrate an SCD30 sensor using an STM32 microcontroller.
-
 - On boot, a menu in the terminal appears and you can start/stop streaming sensor data with ASC calibration enabled/disabled at your discression.
 
+- When the calibration starts; leave the device on for 7 days with 1 hour a day of "fresh air"
 
 
 
