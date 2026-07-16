@@ -1,6 +1,7 @@
 # STM32-SCD30-Calibration-Tool
 
 Hi! The reason I decided to upload this code is to provide STM32 examples for other people to reference. 
+  - i only uploaded the core folder, but that should be enough. 
 
 This tool can be used to calibrate an SCD30 sensor using an STM32 microcontroller.
 
