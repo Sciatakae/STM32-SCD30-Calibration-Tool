@@ -6,7 +6,7 @@ This project is a good example if you are learning about I2C and/or UART on an S
 
 - On boot, a menu in the terminal appears and you can start/stop streaming sensor data with ASC calibration enabled/disabled at your discression.
 
-- When the calibration starts; leave the device on for 7 days with 1 hour a day of "fresh air"
+- When the calibration starts; leave the device on for 7 days with 1 hour a day of "fresh air".
 
 
 
