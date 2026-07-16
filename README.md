@@ -2,9 +2,9 @@
 
 Hi! The reason I decided to upload this code is to provide STM32 examples for other people to reference. 
 
--This tool can be used to calibrate an SCD30 sensor using an STM32 microcontroller.
+- This tool can be used to calibrate an SCD30 sensor using an STM32 microcontroller.
 
--On boot, a menu in the terminal appears and you can start/stop streaming sensor data with ASC calibration enabled/disabled at your discression.
+- On boot, a menu in the terminal appears and you can start/stop streaming sensor data with ASC calibration enabled/disabled at your discression.
 
 - Currently no FRC feature, as I dont have a second reference to calibrate the sensor, but i will update the code when i make progress in this route. 
 
