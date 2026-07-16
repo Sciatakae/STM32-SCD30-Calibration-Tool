@@ -2,7 +2,7 @@
 
 I decided to upload this code is to provide STM32 examples for other beginners to reference.
 
-This project is a good example if you are learning about I2C and/or UART on an STM32 microcontroller; or if you just need to calibrate your sensor on the STM32
+This project is a good example if you are learning about I2C and/or UART on an STM32 microcontroller; or if you just need to calibrate your sensor on an STM32 microcontroller.
 
 - This tool can be used to calibrate an SCD30 sensor using an STM32 microcontroller.
 
