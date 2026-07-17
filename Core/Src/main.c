@@ -129,7 +129,7 @@ int main(void)
   printf("Welcome, SCD30 user!\r\n");
   printf(" \r\n");
   printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n");
-  printf("This is an SCD30 sensor calibration tool\r\n");
+  printf("This is a SCD30 sensor calibration tool\r\n");
   printf("\r\n");
   printf("Follow the on-screen instructions to calibrate the sensor.\r\n");
   printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n");
